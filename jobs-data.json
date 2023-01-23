@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Software Engineer",
+        "company": "Google",
+        "location": "Mountain View, CA",
+        "description": "We are looking for a Software Engineer to join our team at Google. As a Software Engineer, you will be responsible for designing, developing, and maintaining software applications. You will also be responsible for troubleshooting and resolving software issues, and working with other teams to ensure the smooth operation of the software, and working with other teams.",
+        "apply_url": "https://careers.google.com/jobs/results/1257598261428506624-software-engineer"
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "Facebook",
+        "location": "Menlo Park, CA",
+        "description": "We are looking for a Full Stack Developer to join our team at Facebook. As a Full Stack Developer, you will be responsible for designing and developing web-based applications using a variety of programming languages. You will also be responsible for troubleshooting and resolving software issues, and working with other teams to ensure the smooth operation of the software.",
+        "apply_url": "https://www.facebook.com/careers/jobs/257989881217071/"
+    },
+    {
+        "title": "Java Developer",
+        "company": "Amazon",
+        "location": "Seattle, WA",
+        "description": "We are looking for a Java Developer to join our team at Amazon. As a Java Developer, you will be responsible for designing, developing, and maintaining software applications using the Java programming language. You will also be responsible for troubleshooting and resolving software issues, and working with other teams to ensure the smooth operation of the software.",
+        "apply_url": "https://www.amazon.jobs/en/jobs/1411820/java-developer"
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Acme Inc",
+        "location": "New York, NY",
+        "description": "We are seeking a Junior Software Engineer to join our team at Acme Inc. As a Junior Software Engineer, you will be responsible for designing and developing software applications using a variety of programming languages. You will also be responsible for troubleshooting and resolving software issues, and working with other teams to ensure the smooth operation of the software.",
+        "apply_url": "https://www.acmeinc.com/jobs/junior-software-engineer"
+    },
+    {
+        "title": "Python Developer",
+        "company": "Beta Corp",
+        "location": "San Francisco, CA",
+        "description": "We are looking for a Python Developer to join our team at Beta Corp. As a Python Developer, you will be responsible for designing and developing software applications using the Python programming language. You will also be responsible for troubleshooting and resolving software issues, and working with other teams to ensure the smooth operation of the software.",
+        "apply_url": "https://www.betacorp.com/jobs/python-developer"
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "Gamma LLC",
+        "location": "New York, NY",
+        "description": "We are seeking a DevOps Engineer to join our team at Gamma LLC. As a DevOps Engineer, you will be responsible for designing and maintaining the infrastructure that supports our software development efforts. This includes configuring and managing servers, network devices, and storage systems, as well as implementing security and monitoring solutions.",
+        "apply_url": "https://www.gamma-llc.com/jobs/devops-engineer"
+    }
+]
